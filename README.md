@@ -2,7 +2,7 @@
 
 
 ##About
-This is a sample code modules which provides various classes used as various modules in project. 
+This is a sample code module which provides various classes used in various modules of iOS Apps. 
 This contains modules for Blogs listing and Blogs Details, Login and SignUp, Table view for showing endless tables with horizontal swiping feature, Terms and Conditions and Map with pins and KML integration.
 
 ##License
