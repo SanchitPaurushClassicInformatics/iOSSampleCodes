@@ -1,4 +1,4 @@
-# iOS SampleCides
+# iOS SampleCodes
 
 
 ##About
