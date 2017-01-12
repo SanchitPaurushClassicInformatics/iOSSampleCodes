@@ -1,31 +1,12 @@
 # iOS SampleCodes
 
 
-##About
-This is a sample code module which provides various classes used in various modules of iOS Apps. 
-This contains modules for Blogs listing and Blogs Details, Login and SignUp, Table view for showing endless tables with horizontal swiping feature, Terms and Conditions and Map with pins and KML integration.
-
-##License
-
-The MIT License (MIT)
-
-Copyright (c) 2017 ClassicInformatics
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+##Sample class from projects:
+1. BlogsViewController.swift - This class represent listing of blogs and articles.
+2. BlogDetailViewController.swift - This class represent blog details along with sharing and comments.
+3. LoginViewController.swift - This class contains a sample code for login screen.
+4. SignUpOrganizationVC.swift - This is swift class contains sample code for sign up.
+5. TermsConditionsVC.swift - This swift class contains sample code for Terms and Condition Screen.
+6. TrailDetailScreenVC.swift - This swift class contains sample code to show map view with pins and route using KML parsing.
+7. MiddayPicksViewController - This is an objective C class contains list view with end less horizontal scrolling.
 
